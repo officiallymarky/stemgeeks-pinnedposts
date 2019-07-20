@@ -3,12 +3,17 @@
     "@stemgeeks/announced-stemgeeks-a-new-steem-engine-tribe",
     "@stemgeeks/stem-miners-how-do-they-work",
     "@stemgeeks/burning-stem-rewards-for-stemgeeks-accounts-and-curation",
-    "@stemgeeks/what-content-to-publish-on-stemgeeks-using-the-stem-tag"
+    "@stemgeeks/what-content-to-publish-on-stemgeeks-using-the-stem-tag",
+    "@stemgeeks/stembot-voting-bot-that-burns-stem-tokens"
   ],
   "notices": [
     {
       "permalink": "@stemgeeks/what-content-to-publish-on-stemgeeks-using-the-stem-tag",
       "tag": "Guidelines"
+    },
+    {
+      "permalink": "@stemgeeks/stembot-voting-bot-that-burns-stem-tokens",
+      "tag": "Announcement"
     }
   ]
 }
