@@ -5,7 +5,8 @@
     "@stemgeeks/burning-stem-rewards-for-stemgeeks-accounts-and-curation",
     "@stemgeeks/what-content-to-publish-on-stemgeeks-using-the-stem-tag",
     "@stemgeeks/stembot-voting-bot-that-burns-stem-tokens",
-    "@stemgeeks/stemgeeks-now-indexes-and-can-reward-more-than-just-stem-tag"
+    "@stemgeeks/stemgeeks-now-indexes-and-can-reward-more-than-just-stem-tag",
+    "@stemgeeks/4-000-000-000-stem-tokens-burned"
   ],
   "notices": [
     {
@@ -18,6 +19,10 @@
     },
     {
       "permalink": "@stemgeeks/stemgeeks-now-indexes-and-can-reward-more-than-just-stem-tag",
+      "tag": "Announcement"
+    },
+    {
+      "permalink": "@stemgeeks/4-000-000-000-stem-tokens-burned",
       "tag": "Announcement"
     }
   ]
