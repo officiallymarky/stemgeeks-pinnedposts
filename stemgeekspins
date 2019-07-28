@@ -6,7 +6,8 @@
     "@stemgeeks/what-content-to-publish-on-stemgeeks-using-the-stem-tag",
     "@stemgeeks/stembot-voting-bot-that-burns-stem-tokens",
     "@stemgeeks/stemgeeks-now-indexes-and-can-reward-more-than-just-stem-tag",
-    "@stemgeeks/4-000-000-000-stem-tokens-burned"
+    "@stemgeeks/4-000-000-000-stem-tokens-burned",
+    "@themarkymark/stemgeeks-your-favorite-gadget-contest-win-500-stem"
   ],
   "notices": [
     {
