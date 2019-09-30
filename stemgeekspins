@@ -6,6 +6,10 @@
   ],
   "notices": [
     {
+      "permalink": "@stemgeeks/stemgeeks-is-a-brave-certified-publisher",
+      "tag": "Announcement"
+    },
+    {
       "permalink": "@stemgeeks/what-content-to-publish-on-stemgeeks-using-the-stem-tag",
       "tag": "Guidelines"
     },
