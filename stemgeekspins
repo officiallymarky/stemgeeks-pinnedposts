@@ -1,5 +1,6 @@
 {
   "pinned_posts": [
+    "@stemgeeks/important-change-to-stemgeeks-being-considered",
     "@stemgeeks/burning-stem-rewards-for-stemgeeks-accounts-and-curation",
     "@stemgeeks/what-content-to-publish-on-stemgeeks-using-the-stem-tag",
     "@stemgeeks/are-you-publishing-stem-content-or-just-shoe-horning-to-use-the-stem-tag"
@@ -14,12 +15,8 @@
       "tag": "Guidelines"
     },
     {
-      "permalink": "@stemgeeks/1-900-000-stem-miners-burned-out-of-2m",
-      "tag": "Announcement"
-    },
-    {
-      "permalink": "@stemgeeks/4-000-000-000-stem-tokens-burned",
+      "permalink": "@stemgeeks/100-000-stem-miners-burned",
       "tag": "Announcement"
     }
-  ]
+ ]
 }
